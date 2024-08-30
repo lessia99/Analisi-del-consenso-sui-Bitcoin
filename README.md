@@ -8,3 +8,4 @@ Un'azienda di ricerche di mercato deve stimare il consenso delle persone verso i
 - Installazione di pyspark
 - importare: nltk, matplotlib, re, pandas
 - link dataset: https://proai-datasets.s3.eu-west-3.amazonaws.com/bitcoin_tweets.csv.
+- consiglio di aprire il file con estensione .py su Google Colab
